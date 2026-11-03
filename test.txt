@@ -6,3 +6,6 @@ This is my new comment after doing bad practice for resolving conflicts between 
 
 we are making changes into GitHub Portal and we will pull these changes into my Local system (now we will push these changes into github)
 
+i am adding new comment into feature1 branch 
+we are making changes into GitHub Portal and we will pull these changes into my Local system
+
