@@ -1,5 +1,5 @@
 
 This is my new comment after doing bad practice for resolving conflicts between branches.
 
-<<adding new content into the feature1 branch>>
+<<adding new content into the feature1 branch (button)>>
 
