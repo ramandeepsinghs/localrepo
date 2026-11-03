@@ -4,4 +4,5 @@ This is my new comment after doing bad practice for resolving conflicts between 
 <<adding new content into the feature1 branch (dropdown)>>
 <<adding new content into the feature1 branch (button)>>
 
-we are making changes into GitHub Portal and we will pull these changes into my Local system
+we are making changes into GitHub Portal and we will pull these changes into my Local system (now we will push these changes into github)
+
